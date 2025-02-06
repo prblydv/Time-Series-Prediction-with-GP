@@ -179,12 +179,6 @@ python main.py -question 3 -lambda 100 -n 10 -m 5 -data "expression_data.txt" -t
 - Koza, J. R. (1992). *Genetic Programming: On the Programming of Computers by Means of Natural Selection*.
 - Banzhaf, W., Nordin, P., Keller, R. E., & Francone, F. D. (1998). *Genetic Programming: An Introduction*.
 
----
 
-## **🛠 Requirements**
-Install dependencies before running:
-```bash
-pip install -r requirements.txt
-```
 ---
 🔥 **This README provides everything you need to understand and run the project!** 🚀
